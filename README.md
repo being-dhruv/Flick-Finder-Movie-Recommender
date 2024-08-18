@@ -13,8 +13,5 @@ The dataset used in this project was sourced from Kaggle: [TMDB 5000 Movie Datas
 
 ## Demo
 
-Click the image below to watch a demo of the application.
-
-<a href="https://youtu.be/XSi9rQ5ePkE?si=yKYZr_VkhD3tc5xp">
-  <img src="https://github.com/user-attachments/assets/2dea1498-abda-4b40-b363-70775297e6c8" alt="Screenshot (26)" width="800"/>
+<a href="https://youtu.be/XSi9rQ5ePkE?si=yKYZr_VkhD3tc5xp">Click Here!
 </a>
